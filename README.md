@@ -1,51 +1,78 @@
-<h2 align="left">Hi! I'm Shriya</h2>
+I like this one better 
+<h2 align="left">Hey there! I'm Shriya 👋</h2>
 
 <p align="left">
-I'm a pre-final year Computer Engineering student from Goa, India. 🚀  
-Passionate about AI, ML, Web Development, and Blockchain!  
-Always learning and building cool projects. 💡
+  🚀 Pre-final year Computer Engineering student from Goa, India. <br>
+  💡 Passionate about AI, ML, Web Development, and Blockchain. <br>
+  🔥 Exploring Cryptography, Cybersecurity, and Data Science. <br>
+  📌 Always learning, building cool projects, and experimenting with new tech!  
 </p>
 
 ---
 
-### **📊 GitHub Stats**
+## **📊 GitHub Stats & Achievements**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shriya-kamat&show_icons=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriya-kamat&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=shriya-kamat&theme=dracula&no-frame=true&row=1&column=6" />
 </div>
 
 ---
 
-### **⚡ Tech Stack**
+## **⚡ Tech Stack**
+### **Languages & Tools**
 <div align="left">
-  <p><b>Languages & Tools:</b></p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" title="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
----
-
-### **🚀 Featured Projects**
-- 🔗 [**Language Learning System**](#) - A natural language learning C++ based terminal application with interactive exercises to help users learn new languages.
-- 🔗 [**Daily Task Planner**](#) - A PyQt5-based task manager with a calendar interface and SQLite integration for organizing daily tasks efficiently.
-  
----
-
-### **📬 Let’s Connect!**
+### **Frameworks & Tools**
 <div align="left">
-  <a href="https://instagram.com/theweirdvoice_" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/shriya-kamat" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
 
-### **🎉 Fun Fact**
-🌿 *🛠️ My code works 99% of the time… the other 1% is when I need to demo it!* ☕✨
+## **🚀 Featured Projects**
+💡 Click on the links to explore some of my best work!
+
+- 🔗 **[Language Learning System](https://github.com/shriya-kamat/language-learning-system)**  
+  🛠 _Tech Stack:_ `C++` `Data Structures`  
+  📌 A natural language learning terminal app with interactive exercises to help users learn new languages.
+
+- 🔗 **[Daily Task Planner](https://github.com/shriya-kamat/task-planner)**  
+  🛠 _Tech Stack:_ `Python` `PyQt5` `SQLite`  
+  📌 A task manager with a calendar UI for organizing daily tasks efficiently.
 
 ---
 
-💻 **Thanks for stopping by!** Feel free to explore my work and reach out. 🚀
+## **📬 Let’s Connect!**
+<div align="left">
+  <a href="https://www.linkedin.com/in/shriya-kamat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/theweirdvoice_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" /></a>
+</div>
+
+---
+
+## **🎉 Fun Fact**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+🛠️ My code works 99% of the time… the other 1% is when I need to demo it! 
+
+---
+
+## **📌 What I’m Up To**
+- 🚀 **Currently Working On:** Blockchain-based mark sheet verification  
+- 📚 **Learning:** Advanced AI, Cryptography  
+- 🎯 **Goals for 2025:** Master Deep Learning, Contribute to Open Source  
+
+💻 **Thanks for stopping by!** Feel free to explore my work and reach out. 🚀  
