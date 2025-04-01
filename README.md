@@ -62,7 +62,6 @@ I like this one better
 ---
 
 ## **🎉 Fun Fact**
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 🛠️ My code works 99% of the time… the other 1% is when I need to demo it! 
 
 ---
