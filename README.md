@@ -66,7 +66,7 @@
 
 ## **🎉 Fun Fact**
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-💡 I turn coffee into code and bugs into features!  
+🛠️ My code works 99% of the time… the other 1% is when I need to demo it! 
 
 ---
 
