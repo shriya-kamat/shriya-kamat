@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Shriya</h2>
+<h2 align="left">Hi! I'm Shriya</h2>
 
 <p align="left">
 I'm a pre-final year Computer Engineering student from Goa, India. 🚀  
