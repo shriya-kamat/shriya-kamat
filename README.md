@@ -31,8 +31,8 @@ Always learning and building cool projects. 💡
 
 ### **🚀 Featured Projects**
 - 🔗 [**Language Learning System**](#) - A natural language learning  C++ based terminal application with interactive exercises to help users learn new languages
-
-
+- 🔗 [**Daily Task Planner**](#) - A PyQt5-based task manager with a calendar interface and SQLite integration for organizing daily tasks efficiently.
+  
 ---
 
 ### **📬 Let’s Connect!**
