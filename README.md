@@ -2,7 +2,7 @@ I like this one better
 <h2 align="left">Hey there! I'm Shriya 👋</h2>
 
 <p align="left">
-  🚀 Pre-final year Computer Engineering student passionate about AI, ML, Web Development, and Blockchain. Always exploring new tech and building cool projects!
+ 🚀 Pre-final year Computer Engineering student passionate about AI, ML, Web Development, and Blockchain. Always exploring new tech and building cool projects! 💻
 </p>
 
 ---
