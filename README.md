@@ -1,4 +1,3 @@
-I like this one better 
 <h2 align="left">Hey there! I'm Shriya 👋</h2>
 
 <p align="left">
