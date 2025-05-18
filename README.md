@@ -50,6 +50,10 @@
   🛠 _Tech Stack:_ `Python` `PyQt5` `SQLite`  
   📌 A task manager with a calendar UI for organizing daily tasks efficiently.
 
+- 🔗 **[Fake News Detection System](https://github.com/shriyakamat/Fake-News-Detection)**  
+  🛠 _Tech Stack:_ `Python` `Pandas` `Scikit-learn` `NLTK` `TF-IDF`  
+  📌 A machine learning model that detects the authenticity of news articles using Logistic Regression. Achieved 98%+ accuracy with real-time news classification.
+
 ---
 
 ## **📬 Let’s Connect!**
