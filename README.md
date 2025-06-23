@@ -42,11 +42,11 @@
 ## **🚀 Featured Projects**
 💡 Click on the links to explore some of my best work!
 
-- 🔗 **[Language Learning System](https://github.com/shriya-kamat/language-learning-system)**  
+- 🔗 **[Language Learning System](https://github.com/shriya-kamat/languagelearningcpp)**  
   🛠 _Tech Stack:_ `C++` `Data Structures`  
   📌 A natural language learning terminal app with interactive exercises to help users learn new languages.
 
-- 🔗 **[Daily Task Planner](https://github.com/shriya-kamat/task-planner)**  
+- 🔗 **[Daily Task Planner](https://github.com/shriya-kamat/DailyTaskPlannerPython)**  
   🛠 _Tech Stack:_ `Python` `PyQt5` `SQLite`  
   📌 A task manager with a calendar UI for organizing daily tasks efficiently.
 
