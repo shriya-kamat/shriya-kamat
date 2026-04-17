@@ -70,8 +70,8 @@
 ---
 
 ## **📌 What I’m Up To**
-- 🚀 **Currently Working On:** Blockchain-based mark sheet verification  
+- 🚀 **Currently Working On:** Hybrid ConvNeXt–Swin Transformer Model for Diabetic Retinopathy Detection
 - 📚 **Learning:** Advanced AI, Cryptography  
-- 🎯 **Goals for 2025:** Master Deep Learning, Contribute to Open Source  
+- 🎯 **Goals for 2026:** Master Deep Learning, Contribute to Open Source  
 
 💻 **Thanks for stopping by!** Feel free to explore my work and reach out. 🚀  
