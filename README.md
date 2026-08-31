@@ -112,9 +112,9 @@ A machine learning application that classifies news articles using natural langu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriya-kamat&show_icons=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=shriya-kamat&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriya-kamat&layout=compact&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=shriya-kamat&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
