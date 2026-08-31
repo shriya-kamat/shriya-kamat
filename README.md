@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! I'm Shriya 👋</h2>
+<h2 align="left">Hey there! I'm Shriya!</h2>
 
 <p align="left">
 💻 Software Developer passionate about building practical applications, exploring AI/ML, and solving problems through code.
@@ -113,7 +113,7 @@ A machine learning application that classifies news articles using natural langu
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shriya-kamat&show_icons=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats" />
-
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriya-kamat&layout=compact&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="Top Languages" />
 </div>
 
